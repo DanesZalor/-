@@ -8,6 +8,7 @@
 ||||
 |![](.imgs/arigatou.png)|![](.imgs/arigatougozaimasu.png)|![](.imgs/sumimasen.png)|
 ||||
-|![](.imgs/takeoff.png)![](.imgs/return.png)|![](.imgs/beforeeat.png)![](.imgs/aftereat.png)|
-
+|![](.imgs/takeoff.png)|![](.imgs/beforeeat.png)|![](.imgs/introduce.png)|
+||||
+|![](.imgs/return.png)|![](.imgs/aftereat.png)||
 
