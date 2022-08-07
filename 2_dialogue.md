@@ -32,23 +32,38 @@ Mary, an international student who just arrived in Japan,talks to a Japanese stu
 
 |単語　<sup><sub>(たんご)</sub></sup>|English|
 |-|-|
-|**<sub>Expressions</sup>**||
 |あの|um...|
-|ええ|yes|
+|ええ / はい|yes|
+|何<sup><sub>　(なに)</sub></sup>|what|
+|そうです|That's right.|
+|～さい|... years old|
+|～じん|... people ex: にほんじん|
+|名前<sup><sub>　(なまえ)</sub></sup>|name|
+|～さん|Mr/Mrs. ...|
+|友達<sup><sub>　(ともだち)</sub></sup>|friend|
+|<br>||
+|**<sub>Time</sup>**||
+|～じ|...o'clock|
 |今 <sup><sub>　(いま)</sub></sup>|now|
+|午後<sup><sub>　(ごご)</sub></sup>|`P.M.`|
+|午前<sup><sub>　(ごぜん)</sub></sup>|`A.M.`|
+|<br>||
+|**<sub>School</sup>**||
 |英語<sup><sub>　(えいご)</sub></sup>|english|
 |学生<sup><sub>　(がくせい)</sub></sup>|student|
 |～ご|___ language|
 |高校<sup><sub>　(こうこう)</sub></sup>|high school|
-|午後<sup><sub>　(ごご)</sub></sup>|`P.M.`|
-|午前<sup><sub>　(ごぜん)</sub></sup>|`A.M.`|
-|～さい|... years old|
-|～さん|Mr/Mrs. ...|
-|～じ|...o'clock|
-|～じん|... people ex: にほんじん|
 |先生<sup><sub>　(せんせい)</sub></sup>|teacher/professor<br>honorable master|
 |せんもん|major|
-|||
+|大学<sup><sub>　(だいがく)</sub></sup>|college/university|
+|<br>||
+|**<sub>Countries</sup>**||
+|日本<sup><sub>　(にほん)</sub></sup>|Japan|
+|アメリカ|U.S.A.|
+|イギリス|Britain|
+|オ一ストラリア|Australia|
+|かんこく|Korea|
+|中国<sup><sub>　(ちゅうごく)</sub></sup>|China|
 |||
 
 <sup><sub>　()</sub></sup>
