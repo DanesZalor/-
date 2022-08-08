@@ -87,3 +87,51 @@ Mary, an international student who just arrived in Japan,talks to a Japanese stu
 
 
 ## <sub><sub><sup><sub>ぶんぽう</sub></sup></sub></sub><br>文法
+
+### `X　は　Y　です`
+
+|||
+|-|-|
+|じゅうにじはんです。|(it) is half past twelve.|
+|がくせいです。|(I) am a student.|
+|にほんごです。|(My major) is the Japanese language.|
+
+None of these sentences has a *subject* like the ones found in their English counterpart. It is very common to omit subjects whenever they think it is already clear.
+
+To make explicit what we are talking about, we can say something like:
+
+**わたし　の　せんもん**　は　にほんご　です。
+<br><sup>**My major** is the japanese language.</sup>
+
+ **わたし**　は　スーキムです。
+<br><sup>**I** am Sue Kim.</sup>
+
+**やましたさん**　は　せんせい　です。
+<br><sup>**Mr Yamashita** is a teacher.</sup>
+
+`は` and `の` are *particles* which are words that attach themselves to phrases and indicate how the phrases relate to the rest of the sentence.
+
+Note that nouns such as がくせえ　and せんせい stand alone, unlike in english which are preceded by an "a". In japanese, there is no item that correspond to an article or the plural "-s". Sentences like `がくせいです` are therefore ambigious. It could mean "We/you/they are students" or "I am/you are/she is a student".
+
+ ### Question Sentences
+
+adding か at the end of a statement makes it a question.
+
+|||
+|-|-|
+|りゅがくせいです。<br><sup>(I am) an international student</sup>|りゅうがくせいですか。<br><sup>(Are you) an international student?</sup>|
+
+Question sentences may also contain 何<sup><sub>(なに)</sub></sup> 
+
+|||
+|-|-|
+|せんもんは何ですか。<br><sup>What is your major?</sup>|(せんもんは)英五です。<br><sup>(My major) is English.</sup>|
+
+
+> <sub>It is not customary to write a question mark at the end of a question sentence in 日本語. <br>何 can either be read as なん or なに. なん　is used immediately before です or before a counter like ～さい (...years old) or ～じ (...o'clock). なに can be used before ～じん (person of what nationality).</sub>
+
+|||
+|-|-|
+|。<br><sup>?</sup>|。<br><sup></sup>|
+|。<br><sup>?</sup>|。<br><sup></sup>|
+|。<br><sup>?</sup>|。<br><sup></sup>|
