@@ -32,3 +32,4 @@ These are common exchange used at home when a family member leaves but is expect
 
 **ただいま** means *"I am home right now"*.<br>
 **おかえり** means *"Welcome home"*<br>
+
