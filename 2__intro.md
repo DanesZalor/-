@@ -1,16 +1,33 @@
-## 会話 <sup><sub><sub>(かいわ)</sub></sub></sup>
+# Dialogue
 
-> for learning purposes, the sentence is fully written in kana.
 
 Mary, an international student who just arrived in Japan,talks to a Japanese student.
 
-**メアリ一:** すみません、いま　なんじ　ですか。<br><sup>What time is it?</sup>
+**メアリ一:** すみません、今は何時ですか。<br><sup>What time is it?</sup>
 
-**たけし:**　じゅうにじはんです。<br><sup>It's half past twelve.</sup>
+**たけし:**　十二時半です。<br><sup>It's half past twelve.</sup>
 
 **メアリ一:** ありがとうございます。<br><sup>Thank you.</sup>
 
 **たけし:**　いいえ。<br><sup>You're welcome.</sup><br><br>
+
+> #### Encountered New Kanji
+> ||on|kun|meaning|
+> |-|-|-|-|
+> |今|コン, キン|いま|present, this|
+> |何|カ|なに,なん|what, how many|
+> |時|ジ|とき|what hour|
+> |半|ハン|なか|half|
+> |十|ジュウ|とお,と|ten|
+> |二|ニ|ふた|two|
+> 
+>> I still don't know how kanji works but ill leave this here. 
+> 
+> |compound|reading|meaning|
+> |-|-|-|
+> |何時|なんじ|what time|
+> |今何時|いまなんじ|what time (now)|
+> |十二|じゅうに||
 
 
 **たけし:**　あの、りゅうがくせいですか。<br><sup>Um... Are you an international student?</sup>
@@ -21,6 +38,8 @@ Mary, an international student who just arrived in Japan,talks to a Japanese stu
 
 **メアリ一:** にほんごです。いまにねんせいです。<br><sup>Japanese. I am a sophomore.</sup><br><br>
 
+
+### new vocabulary
 
 |単語　<sup><sub>(たんご)</sub></sup>|English|
 |-|-|
@@ -73,14 +92,9 @@ Mary, an international student who just arrived in Japan,talks to a Japanese stu
 |妹<sup><sub>　(いもうと)</sub></sup>|younger sister|
 |弟<sup><sub>　(おとうと)</sub></sup>|younger brother|
 |||
-|||
 
-<sup><sub>　()</sub></sup>
-
-
-## <sub><sub><sup><sub>ぶんぽう</sub></sup></sub></sub><br>文法
-
-### `X　は　Y　です`
+---
+## X　は　Y　です
 
 |||
 |-|-|
@@ -179,39 +193,3 @@ Student: はい。
 **あなた**; when referring to the person you're talking to, *あなた* is the word for "you". However, it is not commonly used in Japanese. Instead we use the person's name and title.
 
 ハアトさんはスウイーデンじんですか。<br><sup>Ms. Hart, are you Swedish?</sup>
-
----
-##  買い物<br><sup><sup><sub>かいもの / Shopping</sub></sup></sup> 
-
-Mary goes to the flea market.
-
-```
-メアリー　： すみません。これはいくらですか。
-            Excuse me. How much is this?
-
-みせのひと： それは三千円です。
-            That's 3,000 yen.
-
-メアリー　： たかいですね。じゃあ、あの時計はいくらですか。
-            It's expensive. Well then, how much is that watch?
-
-みせのひと：　あれは三千五百円です。
-            That's 3,500 yen.
-
-メアリー　： そうですか。あれもたかいですね。
-            I see. That's expensive too.
-
-みせのひと： これは千八百円です。
-            This is 1,800 yen.
-
-メアリー　： じゃあ、その時計をください。
-            Well then, that watch please.
-```
-
-|kanji|on|kun|meaning|
-|-|-|-|-|
-|千|セン|ち|thousand|
-|円|エン|まる|yen|
-|百|ヒャク||hundred|
-
-
