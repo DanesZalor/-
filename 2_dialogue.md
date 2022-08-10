@@ -185,5 +185,33 @@ Student: はい。
 
 Mary goes to the flea market.
 
-メアリー：　すみません。これはいくらですか。<br>Excuse me. How much is this?
+```
+メアリー　： すみません。これはいくらですか。
+            Excuse me. How much is this?
+
+みせのひと： それは三千円です。
+            That's 3,000 yen.
+
+メアリー　： たかいですね。じゃあ、あの時計はいくらですか。
+            It's expensive. Well then, how much is that watch?
+
+みせのひと：　あれは三千五百円です。
+            That's 3,500 yen.
+
+メアリー　： そうですか。あれもたかいですね。
+            I see. That's expensive too.
+
+みせのひと： これは千八百円です。
+            This is 1,800 yen.
+
+メアリー　： じゃあ、その時計をください。
+            Well then, that watch please.
+```
+
+|kanji|on|kun|meaning|
+|-|-|-|-|
+|千|セン|ち|thousand|
+|円|エン|まる|yen|
+|百|ヒャク||hundred|
+
 
