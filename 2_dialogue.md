@@ -1,33 +1,25 @@
-# 会話 <sup><sub><sub>(かいわ)</sub></sub></sup>
+## 会話 <sup><sub><sub>(かいわ)</sub></sub></sup>
 
 > for learning purposes, the sentence is fully written in kana.
 
 Mary, an international student who just arrived in Japan,talks to a Japanese student.
 
-**メアリ一:** すみません、いま　なんじ　ですか。
-<br><sup>What time is it?</sup>
+**メアリ一:** すみません、いま　なんじ　ですか。<br><sup>What time is it?</sup>
 
-**たけし:**　じゅうにじはんです。
-<br><sup>It's half past twelve.</sup>
+**たけし:**　じゅうにじはんです。<br><sup>It's half past twelve.</sup>
 
-**メアリ一:** ありがとうございます。
-<br><sup>Thank you.</sup>
+**メアリ一:** ありがとうございます。<br><sup>Thank you.</sup>
 
-**たけし:**　いいえ。
-<br><sup>You're welcome.</sup><br><br>
+**たけし:**　いいえ。<br><sup>You're welcome.</sup><br><br>
 
 
-**たけし:**　あの、りゅうがくせいですか。
-<br><sup>Um... Are you an international student?</sup>
+**たけし:**　あの、りゅうがくせいですか。<br><sup>Um... Are you an international student?</sup>
 
-**メアリ一:** ええ。アリゾナだいがくのがくせいです。
-<br><sup>Yes. I am a student from the University of Arizona.</sup>
+**メアリ一:** ええ。アリゾナだいがくのがくせいです。<br><sup>Yes. I am a student from the University of Arizona.</sup>
 
-**たけし:**　そうですか。せんもんはなんですか
-<br><sup>I see. What is your major?</sup><br>
+**たけし:**　そうですか。せんもんはなんですか<br><sup>I see. What is your major?</sup><br>
 
-**メアリ一:** にほんごです。いまにねんせいです。
-<br><sup>Japanese. I am a sophomore.</sup><br><br>
+**メアリ一:** にほんごです。いまにねんせいです。<br><sup>Japanese. I am a sophomore.</sup><br><br>
 
 
 |単語　<sup><sub>(たんご)</sub></sup>|English|
@@ -172,7 +164,7 @@ A phrase of the form noun<sub>1</sub>のnoun<sub>2</sub> acts like one big noun.
 **はい** / **ええ** both means "yes" in response to a yes/no question. ええ　is more conversational and relaxed.　In more informal situations, **うん** is used. **はい** can also be used to respond to a knock on the door, or to calling of one's name like "Here". For example
 
 ```
-Teacher: スミスさん？<br>
+Teacher: スミスさん？
 Student: はい。
 ```
 
@@ -186,6 +178,12 @@ Student: はい。
 
 **あなた**; when referring to the person you're talking to, *あなた* is the word for "you". However, it is not commonly used in Japanese. Instead we use the person's name and title.
 
-ハアトさんはスウイーデンじんですか。
-<br><sup>Ms. Hart, are you Swedish?</sup>
+ハアトさんはスウイーデンじんですか。<br><sup>Ms. Hart, are you Swedish?</sup>
+
+---
+##  買い物<br><sup><sup><sub>かいもの / Shopping</sub></sup></sup> 
+
+Mary goes to the flea market.
+
+メアリー：　すみません。これはいくらですか。<br>Excuse me. How much is this?
 
