@@ -25,7 +25,7 @@ If you want to be more specific than "this thing" or "that thing", you are going
 
 |～れ|～の|
 |-|-|
-|<u>これは</u>いくらですか。<br><sup>How much is <u>this</u>?</sup>|<u>このとけいは</u>いくらですか。<br><sup>How much is <u>this watch</u>?</sup>|
+|**これは**いくらですか。<br><sup>How much is **this**?</sup>|**このとけいは**いくらですか。<br><sup>How much is **this watch**?</sup>|
 |**それは**三千円です。<br><sup>**That's** 3000 yen.</sup>|**そのとけいは**三千円です<br><sup>**That watch** is 3000 yen.<sup>|
 |**あれは**三千五百円です。<br><sup>**That (over there)** is 3500 yen.</sup>|**あのとけいは**三千五百円です。<br><sup>**That watch (over there)** is 3500 yen.</sup>|
 
@@ -44,3 +44,11 @@ What if we want to ask to whom something belongs to? We use **だれの** like:
 |-|-|
 |これは<u>だれの</u>かばんですか。<br><sup>Whose bag is this?</sup>|それはスーさんのかばん。<br><sup>That is Sue's bag.</sup>|
 
+> Since どの is a question word, like どれ we use the particle the が particle instead.
+
+## ここ、そこ、あそこ、どこ
+These are used to ask for places and they work just like the ones above.
+||
+|-|
+|住みません、ゆうびんきょくはどこですか。<br><sup>Excuse me, where is the post office?</sup>|
+|(ゆうびんきょくは) あそこです。<br><sup>(The post office is) right over there.</sup>|
