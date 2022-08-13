@@ -33,3 +33,13 @@ These are common exchange used at home when a family member leaves but is expect
 **ただいま** means *"I am home right now"*.<br>
 **おかえり** means *"Welcome home"*<br>
 
+---
+![](.imgs/classroom.png)
+
+|||
+|-|-|
+|わかりました|I understand|
+|わかりません|I don't understand|
+|ゆっくり　いって　ください|Please speak slowly|
+|もう　いちど　いって　ください|Please say it again|
+|ちょっと　まって　ください|Please wait| 
