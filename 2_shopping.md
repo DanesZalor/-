@@ -33,6 +33,20 @@ Mary goes to the flea market.
 > |百|ヒャク||hundred|
 > |時計|とけい||watch|
 
+### も noun
+
+As seen in the previous dialogue, `あれ`**`も`**`たかいですね` <sup><sub>("That's expensive **too**.")</sub></sup>. 
+
+|||
+|-|-|
+|`A` は `X` です。<br>`B` も `X` です。|`A` is `X`.<br>`B` too is `X`.|
+
+
+We cannot use も　to describe a situation like "Pat is Japanese, but is also American.". We cannot use "パットもアメリカじんです。". 
+
+**Instead**, we say "パットもアメリカじんでもあります。"
+
+---
 
 A man finds a wallet on the ground.
 ```
@@ -42,7 +56,7 @@ A man finds a wallet on the ground.
 メアリー　：　私のさいふです。ありがとうございます。
              That's my wallet. Thank you very much.
 ```
-
+---
 
 Mary goes to the restaurant
 ```
@@ -77,3 +91,21 @@ Mary goes to the restaurant
 > |-|-|-|-|
 > |魚|ギョ|うお,さかな|fish|
 > |肉|ニク||flesh, meat|
+
+### noun じゃありません
+
+To negate a statement of the form `X　は　Y　です。`, we use `X　は　Y　じゃありません.`
+
+|||
+|-|-|
+|魚です。<br><sup>It's fish.</sup>|魚じゃありません。<br><sup>It's not fish.</sup>|
+
+
+"たかいですね。"　and "おいしいですよ"　**cannot** be negated with じゃありません because たかい　and おいしい　are not nouns (they are adjectives). Instead we say;
+
+|it's|it's not|
+|-|-|
+|たかいですね|たかくありません|
+|おいしいですよ|おいしくありません|
+
+> じゃ in じゃありません　is a contraction of でわ. In written Japanese, it is more common to use でわ

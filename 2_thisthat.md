@@ -50,5 +50,20 @@ What if we want to ask to whom something belongs to? We use **だれの** like:
 These are used to ask for places and they work just like the ones above.
 ||
 |-|
-|住みません、ゆうびんきょくはどこですか。<br><sup>Excuse me, where is the post office?</sup>|
+|すみません、ゆうびんきょくはどこですか。<br><sup>Excuse me, where is the post office?</sup>|
 |(ゆうびんきょくは) あそこです。<br><sup>(The post office is) right over there.</sup>|
+
+If you are close by, you can point toward the post office and say:
+||
+|-|
+|(ゆうびんきょくは)あそこです。<br><sup>(The post office is) right over there.</sup>|
+
+In summary:
+|||
+|-|-|
+|ここ|hear, near me|
+|そこ|there, near you|
+|あそこ|over there|
+|どこ|where|
+
+
