@@ -109,3 +109,26 @@ To negate a statement of the form `X　は　Y　です。`, we use `X　は　Y
 |おいしいですよ|おいしくありません|
 
 > じゃ in じゃありません　is a contraction of でわ. In written Japanese, it is more common to use でわ
+
+
+### ～ね/～よ
+Statements that end with ね or よ, views the interaction with the listener. If the speaker is seeking the listener's confirmation or agreement to what has been said, then ね　("right?") could be added.
+
+リーさんのせんもんはぶんがくですね。<br><sup>Ms. Lee, your major is literature, right?</sup>
+
+これは肉じゃありませんね.<br><sup>This is not meat, is it?</sup>
+
+よ　("I tell you") is added to a statement if the speaker wants to assure the listener of what has been said. 
+
+とんかつは魚じゃありませんよ。<br><sup>I assure you, tonkatsu is not fish.</sup>
+
+スミスさんはイギリス人ですよ.<br><sup>(In case you're wondering) Mr. Smith is British.</sup>
+
+---
+
+**～をください** is "Please give me X". You can use it to request (concrete) items in general.
+
+**～をおねがいします** too is a request for an item. When used to ask for a concrete object, this sounds more upscale. It is used often when ordering food at a restaurant. But it's also used for asking "abstract objects" such as services, explanations, etc.
+
+**～をどうぞ**　is used when an offer is made with respect to the item, such as in the dialogue; the restaurant attendant uses it when she is handing the menu to the customer. It may also be used when a person is waiting for you to come forth with an item.
+
